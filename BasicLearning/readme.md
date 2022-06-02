@@ -23,3 +23,9 @@
 */
 注释内容可以被jdk中javadoc解析，生成一套网页文件形式体现该程序的说明文档
 
+https://www.runoob.com/java/java-documentation.html  
+要学会使用java文档注释，真的好用，养成良好的习惯
+
+#### 快捷键
+https://www.jianshu.com/p/226b4dd28e13  
+有时间需要做一下模板
